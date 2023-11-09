@@ -1,0 +1,7 @@
+package net.thevpc.gaming.atom.examples.kombla.main.server.models;
+
+public class Explosion extends DefaultSprite{
+    public Explosion() {
+    }
+
+}

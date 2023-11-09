@@ -1,0 +1,8 @@
+# Project exclude paths
+/atom-game-engine/target/
+/sample-games/game-hello-world/target/
+/sample-games/game-sousse-craft/target/
+/sample-games/game-sousse-kombla/target/
+/sample-games/game-sousse-palace/target/
+/sample-games/game-sousse-pong/target/
+/sample-games/game-sousse-tanks/target/
